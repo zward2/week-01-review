@@ -4,5 +4,5 @@ Question 1. How do we identify the remotes?
 git remote -v
 # question 2- how many students are in or were in the Air Force
 two
-#question 3- how many and what parts are in an html document
+# question 3- how many and what parts are in an html document
 2- head and body
